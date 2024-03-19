@@ -1,0 +1,31 @@
+body {
+    height: 90vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.container img {
+    position: absolute;
+}
+
+.otkritka,
+.elem1,
+.elem2,
+.elem3,
+.elem4,
+.elem5 {
+    transition: 0.2s;
+}
+
+.serdse {
+    transition: 0.5s;
+}
+
+.serdse {
+    opacity: 0.1;
+}
